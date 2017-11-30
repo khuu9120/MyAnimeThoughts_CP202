@@ -1,1 +1,13 @@
 theme: jekyll-theme-slate
+
+title: MyAnimeThoughts
+author: Catherine Khuu, Vignesh Srinivasan
+email: khuu9120@mylaurier.ca
+description: > # this means to ignore newlines until "baseurl:"
+  An anime and manga blog for weebs.
+github_username:  khuu9120
+
+sass:
+    style: compressed
+
+theme: jekyll-theme-slate

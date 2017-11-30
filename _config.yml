@@ -8,4 +8,4 @@ github_username:  khuu9120
 sass:
     style: compressed
 
-theme: jekyll-theme-slate
+theme: Minima
